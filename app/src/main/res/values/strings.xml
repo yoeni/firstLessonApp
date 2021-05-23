@@ -5,4 +5,33 @@
     <string name="fragmentYesilText">Hello Yeşil fragment</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Kim bu Pelikancılar?</string>
+    <string name="p1s">Kim bu Pelikancılar?</string>
+    <string name="p2s">Kim bu Pelikancılar?</string>
+
+
+    <!-- PARAGRAF 1-->
+    <string name="p1">"Türkiye'nin gündemi 31 Mart seçimlerinde yapılan itirazlara kilitlendi. İktidar bloğu, İstanbul ve Ankara başta olmak üzere, kaybettiği bir çok seçim bölgesinde sonuçlara itiraz etti, itirazlar kabul edildi. Şimdi, özellikle geçersiz oylar üzerinden yapılan itirazlara ilişkin sayımlar sürüyor.
+
+AKP'nin İstanbul'daki sonuca ilk itirazını yaptığı 1 Nisan günü, akşam saatlerinde toplanan Yüksek Seçim Kurulu'ndan henüz açıklama yapılmadan, iktidara yakın Sabah gazetesi yazarı Hilal Kaplan, Twitter hesabından yaptığı paylaşımda "YSK, tüm oyların yeniden sayılmasına karar verdi" dedi. Kaplan, paylaşımından yaklaşık 1 saat sonra bir düzeltme mesajı yayımladı ve \"YSK'nın oyları yeniden sayımı söz konusu değil. YSK, yapılan itirazların sonuçlarını sisteme giriyor\" ifadelerini kullandı.
+
+Kaplan'ın iki mesajı arasında geçen sürede, Sabah gazetesi ve A Haber'in internet sitelerinde seçime hile karıştırdığı gerekçesiyle 30 sandık başkanının gözaltına alındığı iddia edildi.
+
+İddianın ardından İstanbul Valiliği bir yalanlama yayımladı. Açıklamada, \"Basında yer alan ‘İstanbul’da bazı sandık kurulu başkan ve üyelerinin gözaltına alındığı’ yönündeki haberler gerçeği yansıtmamaktadır\" denildi.
+
+İstanbul Valiliği'nin açıklamasının ardından Sabah, A Haber ve bu iki kurumdan haberi alıntılayan diğer yayın organları, sandık başkanlarının gözaltına alındığı haberini sistemlerinden sildi."</string>
+
+    <!-- PARAGRAF 2    -->
+    <string name="p2">"YSK'nin oy sayımı kararına ilişkin ilk yanıltıcı bilgiyi veren kişinin Ahmet Davutoğlu'nun başbakanlıktan alınması sürecinde yayımladıkları Pelikan Bildirisi'yle gündeme gelen Bosphorus Global ekibinden Hilal Kaplan olması, 'Pelikan'cılar seçim sürecine zarar veriyor' tartışmasını başlattı. Kamuoyunun ilk olarak 1 Mayıs 2016'da adını duyduğu Pelikan grubu, o dönem Başbakan olan Ahmet Davutoğlu'nu yerden yere vuran bir bildiri yayımladı. Pelikan Darbesi olarak anılan sürecin sonu, bildirinin yayımlanmasından günler sonra Davutoğlu'nun istifasına kadar gitti.
+ESKİ PELİKANCI ARTI GERÇEK'E ANLATTI
+
+Peki, kimdir bu Boğaz'da bir yalı dairesinden sosyal medyada bilgi kirliliği yaratan Pelikan'cılar? İtirazların değerlendirme sürecinde çeşitli hesaplardan Türkçe ve İngilizce tweetler paylaşan grubun kurulduğu süreçte içinde olan ve daha sonra yaşanan anlaşmazlıklar nedeniyle ekipten ayrıldığını belirten Fırat Erez, Artı Gerçek'e anlattı.
+
+'GÜNÜN YALANLARI HESABINI YÖNETİYORDUM'
+
+Fırat Erez, Pelikan ekibinin başında Hazine ve Maliye Bakanı Berat Albayrak'ın kardeşi Serhat Albayrak'ın olduğunu, Süheyb Öğüt'ün koordinatör olarak görev yaptığını ve eşi Hilal Kaplan'ın da ekibin iç işleyişinden sorumlu olduğunu belirtti. Kuruluş sürecinde amaçlarını 'AK Parti'nin sosyal medya ekibinin oluşturulması' olarak tarif eden Erez, Pelikan ekibinin halen aktif olarak kullandığı Günün Yalanları adlı Twitter hesabının başında olduğunu ve sosyal medyaki paylaşımların yalan olanlarını ifşa ettiğini ileri sürdü.
+
+'PELİKAN'IN RESMİ YAYIN ORGANI SABAH GAZETESİDİR'
+
+Pelikancılarla 4 aylık çalışma sürecinde finansçı George Soros'la ilişkili Açık Toplum Vakfı'nın 2012 yılına kadar başkanlığını yapan Can Paker'in Pelikan Yalısı'na çok sık gidip geldiğine şahit olduğunu ifade eden Erez, \"30 sandık başkanı gözaltına alındı\" iddiasını ortaya atan Sabah gazetesinden bahsederken, \"Pelikan grubunun resmi yayın organı Sabah gazetesidir. Sabah gazetesinin bağlı olduğu grubun başında Serhat Albayrak vardır. Serhat Albayrak'la Berat Albayrak'ın hacklenen maillerinde grubun kuruluşu için yapılan pazarlıklar, görüşmeler ortaya çıkmıştı. İşin başında kimin olduğunu buradan anlayabiliriz\" ifadelerini kullandı."</string>
 </resources>

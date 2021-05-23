@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018047489593",
+    "project_id": "fir-4f4af",
+    "storage_bucket": "fir-4f4af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018047489593:android:210639b34da67ffbffcfe8",
+        "android_client_info": {
+          "package_name": "online.sezeryildirim.firstlessonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018047489593-v946m9ma6kcp0atearhtnffd1rgfmm7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB-jUk1kA87YkvXoaZoewdckWlUbMZSSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018047489593-v946m9ma6kcp0atearhtnffd1rgfmm7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

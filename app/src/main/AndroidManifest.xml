@@ -12,7 +12,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.FirstLessonApp">
-        <activity android:name=".sharedPrefsActivty"></activity>
+        <activity android:name=".exam"></activity>
+        <activity android:name=".sharedPrefsActivty" />
         <activity android:name=".MainActivity2" />
         <activity android:name=".listviewActivity" />
         <activity android:name=".MainActivity">
