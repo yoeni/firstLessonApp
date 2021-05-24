@@ -2,7 +2,9 @@ package online.sezeryildirim.firstlessonapp;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
+import android.widget.EditText;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -21,10 +23,16 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void firstFragmentButton(View view){
-        FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
+
+        /*FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
         firstFragment f1=new firstFragment();
         transaction.replace(fl.getId(),f1);
-        transaction.commit();
+        transaction.commit();*/
+        EditText et=findViewById(R.id.newID);
+        Intent i=new Intent(MainActivity.this,MainActivity2.class);
+        Log.d("intent", String.valueOf(et.getText()));
+        i.putExtra("id",String.valueOf(et.getText()));
+        startActivity(i);
     }
 
     public void secondFragmentButton(View view){

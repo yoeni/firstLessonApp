@@ -65,21 +65,6 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content">
                 </TextView>
-
-                <ImageView
-                    android:id="@+id/image2"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center"
-                    android:contentDescription="TODO"
-                    android:scaleType="centerCrop"></ImageView>
-
-                <TextView
-                    android:id="@+id/p2"
-                    android:padding="15px"
-                    android:justificationMode="inter_word"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"></TextView>
             </LinearLayout>
         </ScrollView>
 

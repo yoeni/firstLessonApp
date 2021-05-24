@@ -46,17 +46,13 @@ public class firstFragment extends Fragment {
 
         TextView title= rootView.findViewById(R.id.titleText);
         TextView p1= rootView.findViewById(R.id.p1);
-        TextView p2= rootView.findViewById(R.id.p2);
         ImageView titleImage=rootView.findViewById(R.id.titleImage);
-        ImageView image2=rootView.findViewById(R.id.image2);
         ValueEventListener postListener = new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
                 title.setText(dataSnapshot.child("title").getValue().toString());
-                p1.setText(dataSnapshot.child("p1").getValue().toString());
-                p2.setText(dataSnapshot.child("p2").getValue().toString());
-                new DownloadImageTask(titleImage).execute(dataSnapshot.child("image1").getValue().toString());
-                new DownloadImageTask(image2).execute(dataSnapshot.child("image2").getValue().toString());
+                p1.setText(dataSnapshot.child("content").getValue().toString());
+                new DownloadImageTask(titleImage).execute(dataSnapshot.child("imageUrl").getValue().toString());
             }
 
             @Override
